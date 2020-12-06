@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Daftar Pesanan</string>
+    <string name="hint_pesanan">Maukkan Nama dan pesanan Anda</string>
+    <string name="button_save">Simpan</string>
+    <string name="empty_not_saved">Nama dan pesanan anda tidak tersimpan</string>
+</resources>
